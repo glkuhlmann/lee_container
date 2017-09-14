@@ -1,12 +1,12 @@
 <?php
 
 // TEMP: Enable update check on every request. Normally you don't need this! This is for testing only!
-set_site_transient('update_themes', null);
+//set_site_transient('update_themes', null);
 
 
 add_filter('pre_set_site_transient_update_themes', 'check_for_update');
 
-function check_for_child_update($checked_data) {
+function check_for_update($checked_data) {
 	global $wp_version;
 	
 	if (empty($checked_data->checked))
