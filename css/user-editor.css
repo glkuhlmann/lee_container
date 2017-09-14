@@ -1,0 +1,68 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic|Lato:400,300,300italic,400italic,700,700italic,900,900italic);
+/*
+font-family: 'Open Sans', sans-serif;
+font-family: 'Lato', sans-serif;
+*/
+/*
+background-image: url('/sitefiles/wp-content/themes/plotline_creative/images/image.png');
+*/
+#screen-options-link-wrap {
+  display: none; }
+
+#contextual-help-link-wrap {
+  display: none; }
+
+.nav-menus-php #wpbody-content #side-sortables #add-post {
+  display: none; }
+.nav-menus-php #wpbody-content #side-sortables #add-category {
+  display: none; }
+.nav-menus-php #wpbody-content .nav-tab-wrapper {
+  display: none; }
+.nav-menus-php #wpbody-content .hide-if-no-customize {
+  display: none; }
+.nav-menus-php #wpbody-content .add-new-menu-action {
+  display: none; }
+.nav-menus-php #wpbody-content #menu-name {
+  display: none; }
+.nav-menus-php #wpbody-content .menu-name-label {
+  cursor: default; }
+  .nav-menus-php #wpbody-content .menu-name-label > span {
+    padding-right: 0; }
+  .nav-menus-php #wpbody-content .menu-name-label .menu_title {
+    float: none;
+    font-style: normal;
+    display: inline-block;
+    padding-left: 5px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #000000; }
+.nav-menus-php #wpbody-content .menu-settings {
+  display: none; }
+.nav-menus-php #wpbody-content .delete-action {
+  display: none; }
+
+.profile-php222 #profile-page .user-rich-editing-wrap {
+  display: none; }
+.profile-php222 #profile-page .user-admin-color-wrap {
+  display: none; }
+.profile-php222 #profile-page .user-comment-shortcuts-wrap {
+  display: none; }
+.profile-php222 #profile-page .user-display-name-wrap {
+  display: none; }
+.profile-php222 #profile-page .user-url-wrap {
+  display: none; }
+
+#wpadminbar #wp-admin-bar-new-media {
+  display: none; }
+#wpadminbar #wp-admin-bar-comments {
+  display: none; }
+#wpadminbar #wp-admin-bar-wp-logo {
+  display: none; }
+#wpadminbar #wp-admin-bar-site-name .ab-sub-wrapper {
+  display: none !important; }
+
+#wpfooter {
+  display: none; }
+
+#postimagediv {
+  display: none; }
