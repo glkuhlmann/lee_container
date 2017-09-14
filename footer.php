@@ -286,7 +286,25 @@ $(document).ready(function(){
 		}
 		?>
 		
-		
+        <!-- webTraxs Code -->
+
+        <script type="text/javascript">
+            var wto = wto || [];
+            wto.push(['setWTID', 'leecontainer']);
+            wto.push(['webTraxs']);
+            (function() {
+                var wt = document.createElement('script');
+                wt.src = document.location.protocol + '//www.webtraxs.com/wt.php';
+                wt.type = 'text/javascript';
+                wt.async = true;
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(wt, s);
+            })();
+
+        </script>
+        <noscript><img src="http://www.webtraxs.com/webtraxs.php?id=leecontainer&st=img" alt="" /></noscript>
+
+        <!-- End webtrax -->
 		
 	</body>
 
