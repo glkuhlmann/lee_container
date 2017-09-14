@@ -1,6 +1,6 @@
 <?php
 
-
+include_once('inc/updater.php');
 
 
 // Core small functions
