@@ -286,7 +286,7 @@ $(document).ready(function(){
 		}
 		?>
 		
-        <!-- webTraxs Code -->
+        <!-- footer webTraxs Code -->
 
         <script type="text/javascript">
             var wto = wto || [];
@@ -304,7 +304,7 @@ $(document).ready(function(){
         </script>
         <noscript><img src="http://www.webtraxs.com/webtraxs.php?id=leecontainer&st=img" alt="" /></noscript>
 
-        <!-- End webtrax -->
+        <!-- End footer webtrax -->
 		
 	</body>
 

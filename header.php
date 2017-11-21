@@ -7,7 +7,7 @@
 		<meta name="viewport" content="initial-scale=1.0,user-scalable=0">
   		<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
   		<?php global $body_classes;?>
-  		
+
 		<?php wp_head(); ?>
 		
 		<!--[if lt IE 9]>
@@ -27,7 +27,7 @@
 		<!-- html5.js -->
 		<!--[if lt IE 9]>
 			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]-->	
+		<![endif]-->
 		
 			<!-- respond.js -->
 		<!--[if lt IE 9]>
