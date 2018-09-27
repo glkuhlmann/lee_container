@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="app1.5pyd3r.com Sites" autoUploadExternalChanges="true">
+  <component name="PublishConfigData" autoUpload="Always" serverName="dev1.5pyd3r.com Sites" autoUploadExternalChanges="true">
     <serverData>
       <paths name="app1.5pyd3r.com Sites">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/leecontainer/fusionsite/sitefiles/wp-content/themes/lee_container" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dev1.5pyd3r.com Sites">
         <serverdata>
           <mappings>
             <mapping deploy="/leecontainer/fusionsite/sitefiles/wp-content/themes/lee_container" local="$PROJECT_DIR$" web="/" />

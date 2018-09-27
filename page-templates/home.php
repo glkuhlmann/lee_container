@@ -44,7 +44,13 @@ Template Name: Home
 </div><!-- #slideshow -->
 
 
+<div class="band kitchen-sink text-center mt-50" style="background-color: #ffc425; padding:50px 50px; box-shadow: inset 0 0 10px 5px #E3AE21;
+    -moz-box-shadow: inset 0 0 10px 5px #E3AE21;
+    -webkit-box-shadow: inset 0 0 10px 5px #E3AE21;">
 
+    If you'd like to apply for a position in our Centerville plant, please come to  2800 Industrial Park Rd in Centerville Monday to Friday 9 AM to 4 PM and pick up an application.  Or call <a href="tel: 641-450-1855">641-450-1855</a>.
+
+</div>
 
 
 
