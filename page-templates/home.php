@@ -48,7 +48,8 @@ Template Name: Home
     -moz-box-shadow: inset 0 0 10px 5px #E3AE21;
     -webkit-box-shadow: inset 0 0 10px 5px #E3AE21;">
 
-    If you'd like to apply for a position in our Centerville plant, please come to  2800 Industrial Park Rd in Centerville Monday to Friday 9 AM to 4 PM and pick up an application.  Or call <a href="tel: 641-450-1855">641-450-1855</a>.
+    <h2>Lee Container is Hiring in Centerville, Iowa!</h2>
+    <p>Come apply for a position in our Centerville plant! Please come to our offices located at <strong>2800 Industrial Park Rd in Centerville Monday to Friday 9 AM to 4 PM</strong>.  Interested applicants may also call <a href="tel: 641-450-1855"><strong>641-450-1855</strong></a> with any questions.</p>
 
 </div>
 
